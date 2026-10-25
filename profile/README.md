@@ -1,5 +1,5 @@
 # Who We Are
-DeepReal.io is a dynamic technology powerhouse delivering innovative software, data platforms, embedded systems, and infrastructure solutions.
+DrioCore is a dynamic technology powerhouse delivering innovative software, data platforms, embedded systems, and infrastructure solutions.
 
 We transform businesses and communities by combining cutting-edge technologies with AI-powered intelligence to create practical, scalable, and impactful solutions.
 
@@ -164,5 +164,5 @@ AI-powered trading intelligence platform providing predictive insights and real-
 Explore Solution
 ---
 
-DeepReal.io Technologies Limited
+DrioCore Technologies Limited
 Pioneering the future through research, engineering, and intelligent technology solutions—building tomorrow's systems, today.
